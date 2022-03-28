@@ -1,0 +1,31 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.customNav {
+  background-color: #5de31d !important;
+  padding: 1rem 4rem;
+  box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.2);
+}
+
+.navBrand {
+  font-size: 1.2rem;
+  font-weight: 700;
+}
+
+.nav-link {
+  font-size: 1.2rem;
+  font-weight: 400;
+}
+
+.groupAppend .btnAdd {
+  background-color: #5de31d;
+  color: white;
+}
+
+.groupAppend .btnAdd:hover {
+  background-color: #4cbb17;
+  color: white;
+  transition: 0.4s;
+}
